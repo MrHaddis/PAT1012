@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c298cdd-b9e5-41a2-980e-d496ec00fefb" name="Default Changelist" comment="" />
+    <list default="true" id="2c298cdd-b9e5-41a2-980e-d496ec00fefb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PAT1012.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PAT1012.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d7TkZrtTXLY7gWNJ82c7DkO636" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591775275479</updated>
       <workItem from="1591775277176" duration="6425000" />
-      <workItem from="1591835397743" duration="1288000" />
+      <workItem from="1591835397743" duration="6575000" />
     </task>
     <servers />
   </component>
@@ -159,21 +166,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1591836834626" />
-    <state width="1877" height="252" key="GridCell.Tab.0.bottom" timestamp="1591782725288">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1591841758869">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591782725288" />
-    <state width="1877" height="252" key="GridCell.Tab.0.center" timestamp="1591782725288">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591841758869" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1591841758869">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591782725288" />
-    <state width="1877" height="252" key="GridCell.Tab.0.left" timestamp="1591782725288">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591841758869" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1591841758869">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591782725288" />
-    <state width="1877" height="252" key="GridCell.Tab.0.right" timestamp="1591782725288">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591841758869" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1591841758869">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591782725288" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591841758869" />
   </component>
 </project>
